@@ -38,6 +38,7 @@ def initialize_population(population_size, num_courses, num_timeslots):
         chromosome = [random.randint(0, 1) for i in range(num_courses * num_timeslots)]
         # print(chromosome)
         population.append(chromosome)
+    # print(population)
     return population
 
 def genetic_algorithm(num_courses, num_timeslots, population_size, max_iterations):
