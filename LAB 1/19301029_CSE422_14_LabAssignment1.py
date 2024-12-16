@@ -17,6 +17,7 @@ def read_graph(filename):
                 graph[neighbour] = {}
             graph[city][neighbour] = distance
             graph[neighbour][city] = distance
+            # print(graph)
     file.close()
     return graph, heuristics
 
