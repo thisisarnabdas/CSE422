@@ -4,7 +4,7 @@ Welcome to my repository for the CSE422 course lab assignments! This repository 
 
 ## 📝 Course Overview
 
-CSE422 covers a range of topics in **[Artificial Intelligence]**. The assignments here are designed to help students grasp the Core Concepts of AI**.
+CSE422 covers a range of topics in Artificial Intelligence. The assignments here are designed to help students grasp the Core Concepts of AI.
 
 ## 📂 Repository Contents
 
