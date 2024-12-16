@@ -10,11 +10,11 @@ CSE422 covers a range of topics in Artificial Intelligence. The assignments here
 
 This repository includes the following:
 
-- **Lab 1**: [Lab 1 Topic: A Star Search]  
+- **Lab 1**: [Topic: A Star Search]  
 
-- **Lab 2**: [Lab 2 Topic: Genetic Algorithm]  
+- **Lab 2**: [Topic: Genetic Algorithm]  
 
-- **Lab 3**: [Lab 3 Topic: Minimax+alpha beta pruning]  
+- **Lab 3**: [Topic: Minimax+alpha beta pruning]  
 
 
 Feel free to explore the individual lab solutions in each directory.
@@ -42,7 +42,8 @@ If you have any questions or suggestions, feel free to open an issue or reach ou
 ## 🤝 Contributing
 
 Contributions to this repository are welcome! If you have suggestions for improving the solutions or want to contribute new content, feel free to fork the repository, create a branch, and submit a pull request.
-🔧 Tools Used
+
+## 🔧 Tools Used
 
     Programming Language: Python
     IDE/Tools: Pycharm Professional
