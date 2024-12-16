@@ -31,7 +31,8 @@ To use or modify the lab assignments:
 ## 📜 License
 
 This repository is licensed under the GPLv3 License. Feel free to use, modify, and distribute the solutions, but please ensure that any derived works also comply with the GPLv3 License.
-📫 Contact
+
+## 📫 Contact
 
 If you have any questions or suggestions, feel free to open an issue or reach out to me directly:
 
