@@ -36,6 +36,7 @@ def initialize_population(population_size, num_courses, num_timeslots):
     population = []
     for individual in range(population_size):
         chromosome = [random.randint(0, 1) for i in range(num_courses * num_timeslots)]
+        # print(chromosome)
         population.append(chromosome)
     return population
 
