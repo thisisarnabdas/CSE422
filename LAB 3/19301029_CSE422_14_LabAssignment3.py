@@ -94,11 +94,12 @@ def pacman_game(c):
                 if alpha >= beta:
                     break
             return min_v
-
-    leaf_nodes = [3, 6, 2, 3, 7, 1, 2, 0]
-    final = minimax(0, 0, True, leaf_nodes, -math.inf, math.inf)
     if (max(leaf_nodes) - c) > final:
-        print(f"The new minimax value is {max(leaf_nodes) - c}. Pacman goes right and uses dark magic")
+        maxi = max(leaf_nodes)
+        if leaf_nodes.index(maxi)+1 > len(leaf_nodes)/2:
+            print(f"The new minimax value is {max(leaf_nodes) - c}. Pacman goes right and uses dark magic")
+        else:
+            print(f"The new minimax value is {max(leaf_nodes) - c}. Pacman goes left and uses dark magic")
     else:
         print(f"The minimax value is {final}. Pacman does not use dark magic")
 
