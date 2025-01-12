@@ -25,7 +25,7 @@ To use or modify the lab assignments:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/CSE422.git
+   git clone https://github.com/thisisarnabdas/CSE422.git
 
 
 ## 📜 License
